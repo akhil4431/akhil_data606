@@ -1,6 +1,6 @@
 # Data 606 - Capstone Project
 
-# A student dropping out and educational success Prediction
+# A student Dropping Out And Educational Success Prediction
 
 ### Why I am interested to do this project: 
 
