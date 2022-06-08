@@ -13,26 +13,26 @@ I will use Jupyter Notebook to develop my code and use the libraries like Pandas
 ### Dataset Description:
 The dataset contains 37 Attributes which are mentioned below:
 
-'Marital status'
-'Application mode'
-'Application order'
+'Marital status',
+'Application mode',
+'Application order',
 'Course',
-'Daytime/evening attendance\t'
+'Daytime/evening attendance',
 'Previous qualification',
-'Previous qualification (grade)'
+'Previous qualification (grade)',
 'Nationality',
-'Mother's qualification'
+'Mother's qualification',
 'Father's qualification',
-'Mother's occupation'
-'Father's occupation'
+'Mother's occupation',
+'Father's occupation',
 'Admission grade',
-'Displaced'
-'Educational special needs’
+'Displaced',
+'Educational special needs',
 'Debtor',
-'Tuition fees up to date'
-'Gender'
+'Tuition fees up to date',
+'Gender',
 'Scholarship holder',
-'Age at enrollment'
+'Age at enrollment',
 'International',
 'Curricular units 1st sem (credited)',
 'Curricular units 1st sem (enrolled)',
@@ -47,8 +47,8 @@ The dataset contains 37 Attributes which are mentioned below:
 'Curricular units 2nd sem (grade)',
 'Curricular units 2nd sem (without evaluations)'
 'Unemployment rate',
-'Inflation rate'
-'GDP'
+'Inflation rate',
+'GDP',
 'Target'  
 
 ### Data Source:
