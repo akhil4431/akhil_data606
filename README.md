@@ -1,55 +1,37 @@
 # Data 606 - Capstone Project
 
-# A student Dropping Out And Educational Success Prediction
+# TEA LEAF DISEASE PREDICTION
 
-### Why I am interested to do this project: 
+### What is your issue of interest (provide sufficient background information)?
 
-In my past, I have seen many of my friends drop out of college due to a lack of understanding of the importance of education, but I also witnessed many others who are brilliant and can understand any topic in a short period of time. 
-I want to use this research to learn about and analyze the reasons for dropouts, as well as predict which students will drop out in the future. 
-For example, if my model predicts that students in the journalism department will drop out at a higher rate, we can hold motivating sessions for journalism students to lower the dropout rate. Not only the department but there are also multiple features in my dataset, need to understand them and want to develop the model. 
-In this project, I am going to use classification models (K-Nearest Neighbors, Support Vector Machine, Random Forest) and want to try other classification models as well to predict the target variable.
-I will use Jupyter Notebook to develop my code and use the libraries like Pandas, NumPy, Seaborn, Matplotlib, and other machine learning libraries in python. Moreover, I want to maintain the complete code base and other information on GitHub.
+Tea is the world's second most consumed beverage, after only water. It's how I start my day, as well as my favorite drink. Tea plants have been suffering from a variety of diseases recently, including Red leaf spot, Algal leaf spot, Birds eyespot, Gray blight, and others.
 
-### Dataset Description:
-The dataset contains 37 Attributes which are mentioned below:
+### Why is this issue important to you and/or to others?
 
-'Marital status',
-'Application mode',
-'Application order',
-'Course',
-'Daytime/evening attendance',
-'Previous qualification',
-'Previous qualification (grade)',
-'Nationality',
-'Mother's qualification',
-'Father's qualification',
-'Mother's occupation',
-'Father's occupation',
-'Admission grade',
-'Displaced',
-'Educational special needs',
-'Debtor',
-'Tuition fees up to date',
-'Gender',
-'Scholarship holder',
-'Age at enrollment',
-'International',
-'Curricular units 1st sem (credited)',
-'Curricular units 1st sem (enrolled)',
-'Curricular units 1st sem (evaluations)',
-'Curricular units 1st sem (approved)',
-'Curricular units 1st sem (grade)',
-'Curricular units 1st sem (without evaluations)',
-'Curricular units 2nd sem (credited)',
-'Curricular units 2nd sem (enrolled)',
-'Curricular units 2nd sem (evaluations)',
-'Curricular units 2nd sem (approved)',
-'Curricular units 2nd sem (grade)',
-'Curricular units 2nd sem (without evaluations)'
-'Unemployment rate',
-'Inflation rate',
-'GDP',
-'Target'  
+I'm working on a machine learning model to classify and predict tea plant disease in this project. This study can assist tea plant producers who do not have a lot of farming experience.
 
-### Data Source:
-https://archive-beta.ics.uci.edu/ml/datasets/predict+students+dropout+and+academic+success
+### Where do you get the data to analyze and help answer your questions (credibility of the source, quality of data, size of data, attributes of data. etc.)?
+
+I'm training and testing my model on Kaggle data, and my source data is entirely image-based. I'd like to promote models that can provide more accuracy.
+
+Data Source Link: https://www.kaggle.com/datasets/shashwatwork/identifying-disease-in-tea-leafs
+
+### What will be your unit of analysis (for example, patient, organization, or country)? Roughly how many units (observations) do you expect to analyze?
+
+Red leaf spot, Algal leaf spot, Birds eyespot, Gray blight, White spot, Anthracnose, and Brown blight are among the tea plant diseases represented in the dataset. Along with these, there are some healthy tea plant leaf images as well. Each module has multiple images and enough data to train.
+
+### What kinds of techniques/models do you plan to use (for example, clustering, NLP, ARIMA, etc.)?
+
+To anticipate the tea plant disease, I wish to use image classification techniques such as Convolutional Neural Networks, k-nearest neighbors, Support Vector Machines, and other advanced image classification approaches.
+
+### What outcomes do you intend to achieve (better understanding of problems, tools to help solve problems, predictive analytics with practical applications, etc)?
+
+I'll be utilizing machine learning models to predict tea plant disease in this project. Initially, I will classify the images depending on the plant disease and resize the images to the same size. Some python libraries, such as pandas, NumPy, matplotlib, and machine learning libraries, will be used. In addition, I will create a user interface with Streamlit or other tools.
+
+
+### References:
+
+1)
+Pandey, A. K., Sinniah, G. D., Babu, A. K., & Tanti, A. (2021). How the Global Tea Industry Copes up with Fungal Diseases-Challenges and Opportunities. Plant Disease. https://doi.org/10.1094/pdis-09-20-1945-fe
+2)
+vikaspedia Domains. (n.d.). Vikaspedia.in. Retrieved June 10, 2022, from https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tea/tea-diseases
