@@ -31,7 +31,5 @@ I'll be utilizing machine learning models to predict tea plant disease in this p
 
 ### References:
 
-1)
-Pandey, A. K., Sinniah, G. D., Babu, A. K., & Tanti, A. (2021). How the Global Tea Industry Copes up with Fungal Diseases-Challenges and Opportunities. Plant Disease. https://doi.org/10.1094/pdis-09-20-1945-fe
-2)
-vikaspedia Domains. (n.d.). Vikaspedia.in. Retrieved June 10, 2022, from https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tea/tea-diseases
+1) Pandey, A. K., Sinniah, G. D., Babu, A. K., & Tanti, A. (2021). How the Global Tea Industry Copes up with Fungal Diseases-Challenges and Opportunities. Plant Disease. https://doi.org/10.1094/pdis-09-20-1945-fe .
+2)  vikaspedia Domains. (n.d.). Vikaspedia.in. Retrieved June 10, 2022, from https://vikaspedia.in/agriculture/crop-production/integrated-pest-managment/ipm-for-commercial-crops/ipm-strategies-for-tea/tea-diseases
