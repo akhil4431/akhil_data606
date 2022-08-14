@@ -1,6 +1,6 @@
-# Data 606 - Capstone Project
+## Data 606 - Capstone Project Proposal
 
-# TEA LEAF DISEASE PREDICTION
+## TEA LEAF DISEASE PREDICTION
 
 ### What is your issue of interest (provide sufficient background information)?
 
