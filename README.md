@@ -5,6 +5,9 @@
 ### Goal:
 The main objective of this study is to use machine learning and image processing techniques to predict the tea sickness in its early phases.  In this way, my model will help for tea plant farmers for early prediction. 
 
+### Video Presentation Url: https://youtu.be/an-780CFrNU
+### Presentation Document Url: https://github.com/akhil4431/akhil_data606/tree/main/Presentation
+
 ### Introduction:  
 The second most popular beverage worldwide is tea. Most of it is grown in the continents of Asia, Africa, and South America. It has medicinal and health care purposes, contains a range of powerful substances that the human body needs, and is very good at boosting immunity. For tea producers, planting tea is a crucial part of their business strategy for success. The productivity of agriculture is greatly impacted by changes in the weather. The number of diseases is growing as time goes on because of climatic changes. Crop disease attacks result in significant productivity losses for agriculture, and the use of chemicals in agriculture has further diversified the issue. Early illness attack detection is crucial for proactive, efficient, and successful disease control and for promoting sustainable development. Furthermore, the majority of these tea plants are grown on mountain areas. Due to the small number of residents in these locations, it is difficult to gain much assistance from others in identifying these diseases. As a result, it takes a long time and costs money for professionals to travel visit the tea estate and establish a diagnosis.
 
@@ -44,8 +47,6 @@ Below image shows the user interface:
 
 ![image](https://user-images.githubusercontent.com/100260849/184511679-19616689-b472-4c0f-92f4-66ef54a14e4e.png)
 
-### Video Presentation Url: https://youtu.be/an-780CFrNU
-### Presentation Document Url: https://github.com/akhil4431/akhil_data606/tree/main/Presentation
 
 ### Conclusion:
 In conclusion, it is advisable to choose and deploy the Xgboost model. Increasing the data volume will help this model perform better and working on this model even further can definitely improve the accuracy.
