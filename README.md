@@ -11,13 +11,13 @@ The second most popular beverage worldwide is tea. Most of it is grown in the co
 ### Dataset Description: 
 This tea sickness dataset contains tea leaves showing 7 common diseases of tea:
 
-Red leaf spot \n
-Algal leaf spot \n
-Bird’s eyespot \n
-Gray blight \n
-White spot \n 
-Anthracnose \n 
-Brown blight \n
+* Red leaf spot 
+* Algal leaf spot 
+* Bird’s eyespot 
+* Gray blight 
+* White spot 
+* Anthracnose 
+* Brown blight 
 
 ![image](https://user-images.githubusercontent.com/100260849/184511652-c615b45c-d8c5-4756-a5c9-c67699ab87bf.png)
 
