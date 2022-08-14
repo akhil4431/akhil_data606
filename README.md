@@ -17,7 +17,9 @@ Gray blight
 White spot
 Anthracnose
 Brown blight
+
 ![image](https://user-images.githubusercontent.com/100260849/184511652-c615b45c-d8c5-4756-a5c9-c67699ab87bf.png)
+
 ![image](https://user-images.githubusercontent.com/100260849/184511655-0094e01a-6502-404b-ac1c-7bf7c9917338.png)
 
 Images of healthy leaves are also included, along with images of the seven diseases, to train my algorithm to recognize even leaves in good health. The dataset was collected in Johnstone Boiyon farm, Koiwa location, Bomet county from a clone of 1510.
